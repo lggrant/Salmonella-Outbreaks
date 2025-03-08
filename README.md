@@ -1,0 +1,1 @@
+This was a team project created in November and December of 2024 using data available through the CDC. We joined several datasets to track salmonella outbreaks across the state of Virginia and constructed a new, effective database for future management.
